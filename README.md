@@ -6,7 +6,7 @@ This is Todo Manager that manages to Remember all your work you have to do in yo
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](ss.png)
 
 
 ## Tech Stack
@@ -29,12 +29,9 @@ To run tests, run the following command
 
 - [@smartcraze](https://www.github.com/smartcraze)
 
-
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/surajv354)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surajv354)
 
-
-![Logo](dp.png)
-
+<img src="dp.png" alt="Logo" width="100" align="left"/>
